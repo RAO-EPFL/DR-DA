@@ -1,16 +1,5 @@
 # SEQUENTIAL DOMAIN ADAPTATION by SYNTHESIZING DISTRIBUTIONALLY ROBUST EXPERTS
-ICML 2021 Submission
-
-## Anonymity Notice
-This is an anonymous repository for ICML 2021 review for "Sequential Domain Adaptation by Synthesizing Distributionally Robust Experts".
-Once the review process ends this repository will be deleted and replaced by a permanent repository. 
-The anonymity policies of ICML 2021 can be found at https://icml.cc/Conferences/2021/StyleAuthorInstructions.
-
-## Contents
-- [Introduction](#introduction)
-- [Quick Start](#quick-start)
-- [Numerical Experiments](#numerical-experiments)
-
+Bahar Taskesen, Man-Chung Yue, Jose Blanchet, Daniel Kuhn and Viet Anh Nguyen
 
 ## Introduction
 Least squares estimators, when trained on a few target domain samples, may predict poorly. 
